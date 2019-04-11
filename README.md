@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning Examples
+Deep learning examples in Keras and PyTorch. 
