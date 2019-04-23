@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep learning examples in Keras and PyTorch. 
+How to apply deep learning algorithms using Keras and PyTorch. Written in a tutorial-like style so you can code along and follow my brief explanations. Some basic knowledge in python and deep learning is assumed...
